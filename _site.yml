@@ -31,7 +31,7 @@ navbar:
       href: Contact_me.html   # CHANGE HERE 
     - text: "GitHub"
       icon: fa-github
-      href: https://github.com/mfasiolo       # CHANGE HERE 
+      href: https://github.com/VinGioia90       # CHANGE HERE 
 output:
   html_document:
     theme: spacelab
