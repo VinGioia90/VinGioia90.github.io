@@ -12,7 +12,7 @@ navbar:
       href: publications.html
     - text: "Software"
       icon: fa-cubes 
-      href: software.html
+      href: Software.html
     #- text: "Teaching"
     #  icon: fa-graduation-cap
     #  href: Teaching.html
